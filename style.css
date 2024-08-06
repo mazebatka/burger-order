@@ -1,0 +1,26 @@
+body{
+    gap: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.title{
+    color: orange;
+    font: bolder;
+}
+#burger-pic{
+    width: 230px;
+    height: 150px;
+    border-radius: 20px;
+}
+#order-now{
+    font-weight: 400;
+    color: green;
+}
+#order-button{
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+}
